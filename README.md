@@ -26,8 +26,7 @@ Copy code
 npm run dev
 Open the app in your browser at http://localhost:5173.
 
-Contributing
-Feel free to contribute to the project by submitting issues or pull requests. Your feedback and contributions are highly appreciated!
+- Contributing
+- Feel free to contribute to the project by submitting issues or pull requests. Your feedback and contributions are highly appreciated!
 
-License
-This project is licensed under the MIT License.
+
